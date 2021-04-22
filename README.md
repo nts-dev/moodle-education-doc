@@ -14,7 +14,7 @@ The most naive way you can have this setup is by downloading and installing Xamp
 **1.1 Download moodle**
 
 Download stable moodle `standalone code` from here
-`https://download.moodle.org/releases/latest/`
+https://download.moodle.org/releases/latest/
 
     Note
 
